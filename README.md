@@ -5,28 +5,9 @@ Bien sûr! Voici une version mise à jour du fichier `README.md` pour un projet 
 
 Ce projet est une application full stack construite avec React pour le frontend et Express pour le backend. Il vise à fournir des informations sur la profondeur de la neige en utilisant divers services.
 
-## Structure du Projet
+
 
 ```
-profondeur_neige/
-├── client/
-│   ├── neige/
-│   │   ├── node_modules/
-│   │   ├── package.json
-│   │   └── package-lock.json
-│   ├── node_modules/
-│   ├── package.json
-│   └── package-lock.json
-├── server/
-│   ├── node_modules/
-│   ├── tileserver-gl/
-│   ├── docker-compose.yml
-│   ├── package.json
-│   ├── package-lock.json
-│   └── server.js
-├── .gitattributes
-├── .gitignore
-└── README.md
 ```
 
 ## Prérequis
