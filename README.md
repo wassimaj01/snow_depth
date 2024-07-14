@@ -1,4 +1,3 @@
-Bien sûr! Voici une version mise à jour du fichier `README.md` pour un projet utilisant React pour le frontend et Express pour le backend, traduit en français:
 
 ```markdown
 # Projet Profondeur de Neige
@@ -8,7 +7,12 @@ Ce projet est une application full stack construite avec React pour le frontend 
 
 
 ```
+###Structure des dossiers
 ```
+-Frontend :client/neige
+-Backend :server
+```
+
 
 ## Prérequis
 
@@ -30,7 +34,7 @@ cd profondeur_neige
 #### Client
 
 ```bash
-cd client
+cd client/neige
 npm install
 # ou
 yarn install
@@ -52,7 +56,7 @@ yarn install
 Pour démarrer l'application React :
 
 ```bash
-cd client
+cd client/neige
 npm start
 # ou
 yarn start
@@ -79,7 +83,7 @@ docker-compose up
 #### Client
 
 ```bash
-cd client
+cd client/neige
 npm run build
 # ou
 yarn build
@@ -123,13 +127,9 @@ docker-compose build
 
 Les contributions sont les bienvenues ! Veuillez ouvrir un ticket ou soumettre une pull request pour toute amélioration ou ajout.
 
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Contact
 
-Pour toute question ou problème, veuillez contacter [votre-email@example.com](mailto:votre-email@example.com).
+Pour toute question ou problème, veuillez contacter [wassimajbari123@gmail.com](mailto:votre-email@example.com).
 ```
 
-N'hésitez pas à adapter les détails tels que l'URL du dépôt, les informations de contact et d'autres spécificités relatives à votre projet.
